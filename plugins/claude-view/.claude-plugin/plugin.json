@@ -1,0 +1,8 @@
+{
+  "name": "claude-view",
+  "description": "Instantly review code changes in your browser with a GitHub PR-style side-by-side diff view.",
+  "author": {
+    "name": "Ilter",
+    "url": "https://github.com/icanb"
+  }
+}

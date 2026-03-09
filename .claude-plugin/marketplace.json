@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-view",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Ilter"
+  },
+  "metadata": {
+    "description": "Instantly review code changes in your browser"
+  },
+  "plugins": [
+    {
+      "name": "claude-view",
+      "description": "Instantly review code changes in your browser with a GitHub PR-style side-by-side diff view.",
+      "version": "1.0.0",
+      "source": "./plugins/claude-view",
+      "category": "development",
+      "tags": ["diff", "review", "git", "view"],
+      "license": "MIT"
+    }
+  ]
+}
